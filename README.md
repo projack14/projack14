@@ -10,8 +10,9 @@
 <h3 align="left">:man_technologist: About Me :</h3>
 <div align="left">
   <ul>
-    <li>Frontend Developer using React Native and React.js</li>
-    <li>Love watching movies and series</li>
+    <li>Frontend Developer using React.js</li>
+    <li>Love watching movies, series and mobile gaming</li>
+    <li>There's always a new idea whenever meeting new people.</li>
   </ul>
 </div>
 
@@ -32,22 +33,10 @@
 
 
 
-<h3 align="left">:gear: GitHub Analytics:</h3>
-<div align="center">
-  <a href="https://github.com/projack14">
-    <img src="https://github-readme-stats.vercel.app/api?username=projack14&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Commit Stats"/>
-  </a>
 
- 
-</div>
+### :sparkles: Talk With Me 
 
-
-
-
-
-### :sparkles: My Followers
-
-- 📫 How to reach me:
+- 📫 How to reach me: 
     - :octocat:  :[Github@projack14](https://github.com/projack14)
     - 📧 :[zakaria.zrs14@gmail.com](mailto:zakaria.zrs14@gmail.com)
     - 📷 :[Instagram@Haijack__](https://www.instagram.com/haijack__/)
@@ -65,7 +54,14 @@
     - Camera : HD 720p with Privacy Shutter
 
    
+<h3 align="left">:gear: GitHub Analytics:</h3>
+<div align="center">
+  <a href="https://github.com/projack14">
+    <img src="https://github-readme-stats.vercel.app/api?username=projack14&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Commit Stats"/>
+  </a>
 
+ 
+</div>
 
 
 
