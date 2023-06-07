@@ -66,7 +66,7 @@
 </ul>
 
 ### Tools:
-<div align='center'>
+<div align='left'>
 <ul>
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://img.shields.io/badge/-VS Code-000?&logo=visualstudiocode"  height="32" >
@@ -123,7 +123,7 @@
   
 </ul>
 </div>
-
+<hr/>
 
 
 
