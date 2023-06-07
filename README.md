@@ -4,17 +4,24 @@
 </p> -->
 
 
-<h1 align="center">Hi 👋, I'm Zakaria Saputra</h1>
+<h1 align="center">Hi 👋, I'm Zakaria Saputra </h1>
+
 <h3 align="center">A passionate frontend developer from Palembang, Indonesia</h3>
 
-<h3 align="left">:man_technologist: About Me :</h3>
+
+
+<h3 align="left">:man_technologist: About Me :
+</h3>
 <div align="left">
   <ul>
     <li>Frontend Developer using React.js</li>
     <li>Love watching movies, series and mobile gaming</li>
+     <li>Like photography and Design</li>
     <li>There's always a new idea whenever meeting new people.</li>
   </ul>
 </div>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -41,15 +48,16 @@
 
 
 ### :sparkles: Talk With Me 
+<div align='left'>
+  <ul>
+ <a  href="https://www.instagram.com/haijack__/"><img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
+  <a href="https://discord.gg/PExFU6Wu"><img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
+  <a href="https://www.linkedin.com/in/zakaria-saputra-93ba19228/"><img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+  <br/>
+  </ul>
+</div>
 
-- 📫 How to reach me: 
-    - :octocat:  :[Github@projack14](https://github.com/projack14)
-    - 📧 :[zakaria.zrs14@gmail.com](mailto:zakaria.zrs14@gmail.com)
-    - 📷 :[Instagram@Haijack__](https://www.instagram.com/haijack__/)
-    - 🚀 :[LinkedIn@Zakaria Saputra](https://www.linkedin.com/in/zakaria-saputra-93ba19228/)
-
-
-- :computer: PC:
+###  :computer: PC
     - Lenovo Gaming 3 16G 500SSD
     - Graphics : NVDIA GeForce RTX 3050Ti 4GB GDDR6, Boost Clock 1500MHz, TPG 85W
     - Processor : AMD Ryzen 7 6800H (*C/ 16T, 3.2 / 4.7Ghz, 4MB L2 / 16MB L3)
