@@ -140,7 +140,7 @@
     - Bundled Software : Office Home and Student 2021
     - Camera : HD 720p with Privacy Shutter
 
-   
+  <hr/> 
 <h3 align="left">:gear: GitHub Analytics:</h3>
 <div align="center">
   <a href="https://github.com/projack14">
