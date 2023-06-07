@@ -5,8 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Zakaria Saputra </h1>
-
-<h3 align="center">A passionate frontend developer from Palembang, Indonesia</h3>
+<h3 align="center">A passionate Frontend Engineer from Palembang, Indonesia</h3>
 
 
 
@@ -21,7 +20,16 @@
   </ul>
 </div>
 
-
+### :sparkles: Talk With Me 
+<div align='left'>
+  <ul>
+ <a  href="https://www.instagram.com/haijack__/"><img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
+  <a href="https://discord.gg/PExFU6Wu"><img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
+  <a href="https://www.linkedin.com/in/zakaria-saputra-93ba19228/"><img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+  <br/>
+  </ul>
+</div>
+<hr/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -47,15 +55,7 @@
 
 
 
-### :sparkles: Talk With Me 
-<div align='left'>
-  <ul>
- <a  href="https://www.instagram.com/haijack__/"><img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
-  <a href="https://discord.gg/PExFU6Wu"><img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
-  <a href="https://www.linkedin.com/in/zakaria-saputra-93ba19228/"><img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-  <br/>
-  </ul>
-</div>
+
 
 ###  :computer: PC
     - Lenovo Gaming 3 16G 500SSD
