@@ -8,22 +8,22 @@
 <h3 align="center">A passionate Frontend Engineer from Palembang, Indonesia</h3>
 
 
+### :man_technologist: About Me :
+- Frontend Developer using React.js
+- Love watching movies, series and mobile gaming
+- Like photography and Design
+- How to reach me **zakaria.zrs14@gmail.com**
+- There's always a new idea whenever meeting new people
 
-<h3 align="left">:man_technologist: About Me :
-</h3>
-<div align="left">
-  <ul>
-    <li>Frontend Developer using React.js</li>
-    <li>Love watching movies, series and mobile gaming</li>
-     <li>Like photography and Design</li>
-    <li>There's always a new idea whenever meeting new people.</li>
-  </ul>
-</div>
 
 ### :sparkles: Talk With Me 
+
+
+ 
 <div align='left'>
+ 
   <ul>
- <a  href="https://www.instagram.com/haijack__/"><img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
+ <a  href="https://www.instagram.com/haijack__/"> <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
   <a href="https://discord.gg/PExFU6Wu"><img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
   <a href="https://www.linkedin.com/in/zakaria-saputra-93ba19228/"><img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
   <br/>
