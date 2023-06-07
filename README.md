@@ -24,9 +24,15 @@
   <a href="https://nodejs.org/en" target="_blank">  <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://react.dev/" target="_blank">  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-   <a href="https://tailwindcss.com/" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/120px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="40"/> </a>
+   <a href="https://code.visualstudio.com/" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
+  <a href="https://react.dev/" target="_blank">  <img src="https://reactnative.dev/img/header_logo.svg" alt="react.js" width="40" height="40"/> </a>
+ <a href="https://react-icons.github.io/react-icons" target="_blank">  <img src="https://camo.githubusercontent.com/48d099290b4cb2d7937bcd96e8497cf1845b54a810a6432c70cf944b60b40c77/68747470733a2f2f7261776769742e636f6d2f676f72616e67616a69632f72656163742d69636f6e732f6d61737465722f72656163742d69636f6e732e737667" alt="reacticon" width="40" height="40"/> </a>
+    <a href="https://tanstack.com/table/v8/docs/guide/installation?from=reactTableV7&original=https://github.com/TanStack/table/tree/v7/docs/src/pages/docs/installation.md" target="_blank">  <img src="https://o.remove.bg/downloads/52cec3a7-67c3-49d7-982c-2bf8af976fc2/img-removebg-preview.png" alt="reacttable" width="40" height="40"/> </a> 
+  <a href="https://react-hook-form.com/" target="_blank">  <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" alt="reacthookform" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/120px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="40"/> </a>
    <a href="https://vitejs.dev/" target="_blank">  <img  src="https://vitejs.dev/logo-with-shadow.png" alt="vitejs" width="40" height="40"/> </a> 
+   <a href="https://www.codeigniter.com/" target="_blank">  <img  src="https://cdn.freebiesupply.com/logos/large/2x/codeigniter-logo-png-transparent.png" alt="codeigniter" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com/" target="_blank">  <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a> 
    <a href="https://figma.com/" target="_blank">  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_170157.png" alt="figma" width="40" height="40"/> </a> 
    <a href="https://whimsical.com/" target="_blank">  <img src="https://i.pinimg.com/originals/ea/2a/b2/ea2ab287b40acfe28348c71eb780d11c.png" alt="figma" width="40" height="40"/> </a> 
  </p>
