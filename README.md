@@ -23,34 +23,103 @@
 <div align='left'>
  
   <ul>
- <a  href="https://www.instagram.com/haijack__/"> <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
-  <a href="https://discord.gg/PExFU6Wu"><img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
-  <a href="https://www.linkedin.com/in/zakaria-saputra-93ba19228/"><img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-  <br/>
+ <a  href="https://www.instagram.com/haijack__/"> 
+     <img src="https://img.shields.io/badge/-Instagram-000?&logo=instagram"  height="32" >
+   </a>
+  <a href="https://discord.gg/PExFU6Wu">
+     <img src="https://img.shields.io/badge/-Discord-000?&logo=discord"  height="32" >
+    </a>
+  <a href="https://www.linkedin.com/in/zakaria-saputra-93ba19228/">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin"  height="32" >
+    </a>
   </ul>
 </div>
 <hr/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://html5up.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org/en" target="_blank">  <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-   <a href="https://code.visualstudio.com/" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
-  <a href="https://react.dev/" target="_blank">  <img src="https://reactnative.dev/img/header_logo.svg" alt="react.js" width="40" height="40"/> </a>
- <a href="https://react-icons.github.io/react-icons" target="_blank">  <img src="https://camo.githubusercontent.com/48d099290b4cb2d7937bcd96e8497cf1845b54a810a6432c70cf944b60b40c77/68747470733a2f2f7261776769742e636f6d2f676f72616e67616a69632f72656163742d69636f6e732f6d61737465722f72656163742d69636f6e732e737667" alt="reacticon" width="40" height="40"/> </a>
-    <a href="https://tanstack.com/table/v8/docs/guide/installation?from=reactTableV7&original=https://github.com/TanStack/table/tree/v7/docs/src/pages/docs/installation.md" target="_blank">  <img src="https://o.remove.bg/downloads/52cec3a7-67c3-49d7-982c-2bf8af976fc2/img-removebg-preview.png" alt="reacttable" width="40" height="40"/> </a> 
-  <a href="https://react-hook-form.com/" target="_blank">  <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" alt="reacthookform" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/120px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="40"/> </a>
-   <a href="https://vitejs.dev/" target="_blank">  <img  src="https://vitejs.dev/logo-with-shadow.png" alt="vitejs" width="40" height="40"/> </a> 
-   <a href="https://www.codeigniter.com/" target="_blank">  <img  src="https://cdn.freebiesupply.com/logos/large/2x/codeigniter-logo-png-transparent.png" alt="codeigniter" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com/" target="_blank">  <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a> 
-   <a href="https://figma.com/" target="_blank">  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_170157.png" alt="figma" width="40" height="40"/> </a> 
-   <a href="https://whimsical.com/" target="_blank">  <img src="https://i.pinimg.com/originals/ea/2a/b2/ea2ab287b40acfe28348c71eb780d11c.png" alt="figma" width="40" height="40"/> </a> 
- </p>
+### Languages:
+<ul>
+   <a href="https://html5up.net/" target="_blank">
+    <img src="https://img.shields.io/badge/-HTML5-000?&logo=html5"  height="32" >
+  </a>
+     <a href="https://www.w3schools.com/css/" target="_blank">
+<img src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3"  height="32" >
+       </a>
+   <a href="https://php.net/" target="_blank">
+    <img src="https://img.shields.io/badge/-PHP-000?&logo=php"  height="32" >
+  </a>
+  <a href="https://nodejs.org/en" target="_blank"> 
+<img src="https://img.shields.io/badge/-Node Js-000?&logo=Node.js"  height="32" >
+    </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  
+<img src="https://img.shields.io/badge/-Javascript-000?&logo=Javascript"  height="32" >
+     </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://img.shields.io/badge/-Typescript-000?&logo=typescript"  height="32" >
+ </a> 
+  <a href="https://www.python.org/" target="_blank">    
+<img src="https://img.shields.io/badge/-Python-000?&logo=Python"  height="32" >
+     </a> 
+</ul>
+
+### Tools:
+
+<ul>
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://img.shields.io/badge/-VS Code-000?&logo=visualstudiocode"  height="32" >
+</a>
+  <a href="https://discord.com/" target="_blank">
+<img src="https://img.shields.io/badge/-Discord-000?&logo=discord"  height="32" >
+</a>
+  <a href="https://git-scm.com/" target="_blank">
+<img src="https://img.shields.io/badge/-Git-000?&logo=git"  height="32" >
+</a>
+  </a>
+  <a href="https://axios-http.com/docs/intro" target="_blank">
+<img src="https://img.shields.io/badge/-Axios-000?&logo=axios"  height="32" >
+</a>
+  <a href="https://react.dev/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-React.Js-000?&logo=React"  height="32" > 
+  </a>
+   <a href="https://redux.js.org/" target="_blank"> 
+       <img src="https://img.shields.io/badge/-redux-000?&logo=Redux"  height="32" >
+     </a> 
+    <a href="https://tanstack.com" target="_blank"> 
+      <img src="https://img.shields.io/badge/-React Table-000?&logo=reacttable"  height="32" >
+  </a> 
+   <a href="https://reactrouter.com/en/main" target="_blank"> 
+     <img src="https://img.shields.io/badge/-React Router-000?&logo=reactrouter"  height="32" >
+  </a>
+   <a href="https://react-hook-form.com/" target="_blank"> 
+     <img src="https://img.shields.io/badge/-RHF-000?&logo=reacthookform"  height="32" >
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">  
+     <img src="https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss"  height="32" >
+  </a>
+   <a href="https://vitejs.dev/" target="_blank"> 
+   <img src="https://img.shields.io/badge/-Vite-000?&logo=vite"  height="32" >
+  </a> 
+   <a href="https://www.codeigniter.com/" target="_blank">  
+   <img src="https://img.shields.io/badge/-Codeigniter-000?&logo=Codeigniter"  height="32" >
+  </a> 
+  <a href="https://getbootstrap.com/" target="_blank">  
+    <img src="https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap"  height="32" >
+    </a> 
+   <a href="https://daisyui.com/" target="_blank"> 
+       <img src="https://img.shields.io/badge/-Daisyui-000?&logo=daisyui"  height="32" >
+     </a> 
+   <a href="https://headlessui.com/react/popover" target="_blank"> 
+       <img src="https://img.shields.io/badge/-Headlessui-000?&logo=headlessui"  height="32" >
+     </a> 
+   <a href="https://figma.com/" target="_blank">  
+     <img src="https://img.shields.io/badge/-Figma-000?&logo=Figma"  height="32" >
+  </a> 
+  <a href="https://vercel.com/" target="_blank">  
+     <img src="https://img.shields.io/badge/-Vercel-000?&logo=Vercel"  height="32" >
+  </a> 
+  
+</ul>
+
+
 
 
 
