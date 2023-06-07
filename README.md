@@ -40,6 +40,7 @@
 <hr/>
 
 ### Languages:
+
 <ul>
    <a href="https://html5up.net/" target="_blank">
     <img src="https://img.shields.io/badge/-HTML5-000?&logo=html5"  height="32" >
@@ -65,7 +66,7 @@
 </ul>
 
 ### Tools:
-
+<div align='center'>
 <ul>
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://img.shields.io/badge/-VS Code-000?&logo=visualstudiocode"  height="32" >
@@ -121,7 +122,7 @@
   </a> 
   
 </ul>
-
+</div>
 
 
 
