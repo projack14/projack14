@@ -78,7 +78,7 @@
 <img src="https://img.shields.io/badge/-Axios-000?&logo=axios"  height="32" >
 </a>
   <a href="https://react.dev/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-React.Js-000?&logo=React"  height="32" > 
+    <img src="https://img.shields.io/badge/-React-000?&logo=React"  height="32" > 
   </a>
    <a href="https://redux.js.org/" target="_blank"> 
        <img src="https://img.shields.io/badge/-redux-000?&logo=Redux"  height="32" >
