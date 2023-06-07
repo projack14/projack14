@@ -23,6 +23,9 @@
 <div align='left'>
  
   <ul>
+    <a  href="https://t.me/zakariasaputra"> 
+     <img src="https://img.shields.io/badge/-Telegram-000?&logo=telegram"  height="32" >
+   </a>
  <a  href="https://www.instagram.com/haijack__/"> 
      <img src="https://img.shields.io/badge/-Instagram-000?&logo=instagram"  height="32" >
    </a>
@@ -129,7 +132,7 @@
 ###  :computer: PC
     - Lenovo Gaming 3 16G 500SSD
     - Graphics : NVDIA GeForce RTX 3050Ti 4GB GDDR6, Boost Clock 1500MHz, TPG 85W
-    - Processor : AMD Ryzen 7 6800H (*C/ 16T, 3.2 / 4.7Ghz, 4MB L2 / 16MB L3)
+    - Processor : AMD Ryzen 7 6800H (8C/ 16T, 3.2 / 4.7Ghz, 4MB L2 / 16MB L3)
     - Storage : 512GB SSD M.2 2242 PCIe 4.0x4 NVMe
     - Display : 15.6" FHD (1920x1080) IPS 300nits Anti-glare, 165Hz, 100% sRGB, Free-Sync, DC dimmer
     - Operating System : Windows 11 Home 64, English
