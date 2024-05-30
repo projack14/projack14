@@ -145,11 +145,11 @@
 <div align="center">
   <a href="https://github.com/projack14">
     <img src="https://github-readme-stats.vercel.app/api?username=projack14&show_icons=true&line_height=27&count_private=true&&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Commit Stats"/>
-
-
-     
-
   </a>
+
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=projack14&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="projack14" />
+    </a>
 
 </div>
 
