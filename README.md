@@ -127,21 +127,6 @@
 
 
 
-
-
-
-###  :computer: PC
-    - Lenovo Gaming 3 16G 500SSD
-    - Graphics : NVDIA GeForce RTX 3050Ti 4GB GDDR6, Boost Clock 1500MHz, TPG 85W
-    - Processor : AMD Ryzen 7 6800H (8C/ 16T, 3.2 / 4.7Ghz, 4MB L2 / 16MB L3)
-    - Storage : 512GB SSD M.2 2242 PCIe 4.0x4 NVMe
-    - Display : 15.6" FHD (1920x1080) IPS 300nits Anti-glare, 165Hz, 100% sRGB, Free-Sync, DC dimmer
-    - Operating System : Windows 11 Home 64, English
-    - Bundled Software : Office Home and Student 2021
-    - Camera : HD 720p with Privacy Shutter
-
-  <hr/> 
-  
 <h3 align="left">:gear: GitHub Analytics:</h3>
 <div align=center>
   
